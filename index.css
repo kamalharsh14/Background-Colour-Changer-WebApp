@@ -1,7 +1,8 @@
 @import url('http://fonts.cdnfonts.com/css/scientific-calculator-lcd');
 
 .font{
-    font-family: 'Scientific Calculator LCD', sans-serif;
+    font-family: 'lcd phone', sans-serif;
+    /* font-family: 'Scientific Calculator LCD', sans-serif; */
 }
 
 .center{
